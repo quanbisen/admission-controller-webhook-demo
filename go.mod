@@ -1,6 +1,6 @@
 module github.com/stackrox/admission-controller-webhook-demo
 
-go 1.16
+go 1.19
 
 require (
 	k8s.io/api v0.22.0
